@@ -1,0 +1,17 @@
+body{background-color: darkslateblue;
+}
+.current-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
+}
+li{
+    color: white;
+  list-style-type: none}
+h2{
+    color: white;
+}
+.tittles{
+    display: flex;
+    justify-content: space-around;
+}
